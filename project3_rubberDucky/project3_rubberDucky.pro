@@ -1,4 +1,4 @@
-update=10/30/2017 3:31:16 PM
+update=Mon 06 Nov 2017 12:15:13 AM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../arduinoBreakoutBoard/Project 2_Arduino
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,4 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=ArduinoLib
+LibName33=AT32UC3B1512

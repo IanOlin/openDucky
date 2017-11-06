@@ -1,0 +1,51 @@
+AT32UC3B1512,,,
+,,,
+Pin,Side,Unit,Name
+1,left,pwr,GND
+2,left,jtag,TCK
+3,left,jtag, TDI
+4,right,jtag, TDO
+5,right,jtag,TMS
+6,right, pwr, VDDCORE
+7,right,usb,USB_ID
+8,right,usb,USB_VBOF
+9,left,usart,DCD
+10,left,usart,DSR
+11,left,usart,DTR
+12,right,usart,RI
+13,left,pwr,GNDANA
+14,right, pwr,ADVREF
+15,right,pwr,VDDANA
+16,right,pwr,VDDOUT
+17,left,pwr,VDDIN
+18,left,pwr,VDDCORE
+19,right,pwr,GND
+20,right,usart,CTS
+21,right,usart,RTS
+22,right,misc,PWM0
+23,right,usart,TXD
+24,right, pwr,VDDIO
+25,left,misc,PWM2
+26,left,spi,MOSI
+27,left,spi,SCK
+28,left,spi,NPCS0
+29,right,usart,RXD
+30,right,spi, MISO
+31,right, misc,GPIO19
+32,left,usart,CLK
+33,right,misc,GPIO21
+34,right,misc,GPIO22
+35,right,misc,GPIO23
+36,left,pwr,VDDIO
+37,right, pwr,GND
+38,left,usb,D+
+39,left,usb,D-
+40,left,usb,VBUS
+41,right,pwr,VDDPLL
+42,right, pwr,VDDCORE
+43,right,misc,GPIO24
+44,right,misc,GPIO25
+45,right,misc,GPIO26
+46,right,misc,GPIO27
+47,left,pwr,RESET_N
+48,left,pwr,VDDIO
