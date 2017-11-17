@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name openDucky)(type KiCad)(uri "$(KIPRJMOD)/openDucky.pretty")(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
-update=Mon 06 Nov 2017 12:15:13 AM EST
+update=Fri 17 Nov 2017 09:36:20 AM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=AT32UC3B1512
+LibName34=/home/ian/openDucky/usb_a_cust
