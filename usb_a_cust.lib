@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# USB_A_Cust
+#
+DEF USB_A_Cust U 0 40 Y Y 1 F N
+F0 "U" 0 350 60 H V C CNN
+F1 "USB_A_Cust" 0 -200 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S 300 300 -300 -150 0 1 0 N
+X VBUS 1 500 250 200 L 50 50 1 1 W
+X Ground 2 500 150 200 L 50 50 1 1 w
+X Data+ 3 500 50 200 L 50 50 1 1 B
+X Data- 4 500 -50 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
